@@ -8,3 +8,23 @@
     
 
 }
+
+.slider{
+    width:100%;
+    height:10px;
+    background-color: #66cccc;
+}
+
+.slider .thumb{
+    width:23px;
+    height:23px;
+    cursor:grab;
+    background:#66cccc;
+    border-radius:50%;
+    
+    top:-5px;
+}
+
+.beach{
+    margin-top:15px;
+}
